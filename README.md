@@ -1,9 +1,9 @@
 ### Hi, I'm Nano 👋
 
+[<img width="133" rel="Microsoft MVP" src="https://github.com/nanovazquez/nanovazquez.github.com/raw/master/images/mvp-banner.png">](https://mvp.microsoft.com/en-us/PublicProfile/5003810?fullName=Mariano%20Daniel%20Vazquez)
+
 I'm a full-stack developer with 15+ years of experience in software development. <br/>
 Currently working as a Principal Software Engineer for MuleSoft, a company that provides software for integrating services and applications.
-
-[<img width="133" rel="Microsoft MVP" src="https://github.com/nanovazquez/nanovazquez.github.com/raw/master/images/mvp-banner.png">](https://mvp.microsoft.com/en-us/PublicProfile/5003810?fullName=Mariano%20Daniel%20Vazquez)
 
 I'm also co-organizer of:
 
